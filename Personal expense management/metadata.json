@@ -1,6 +1,0 @@
-{
-  "name": "مدیریت هزینه شخصی",
-  "description": "یک برنامه ساده و مدرن مدیریت هزینه شخصی با زبان فارسی و محیط کاملا راست‌چین",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
